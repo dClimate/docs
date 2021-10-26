@@ -9,11 +9,11 @@ const config = {
   title: "dClimate Docs",
   tagline: "",
   url: "https://dclimate.github.io",
-  baseUrl: "/",
-  onBrokenLinks: "throw",
+  baseUrl: "/docs/",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "dClimate", // Usually your GitHub org/user name.
+  organizationName: "dclimate", // Usually your GitHub org/user name.
   projectName: "docs", // Usually your repo name.
   trailingSlash: false,
 
